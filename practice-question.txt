@@ -1,0 +1,96 @@
+# 🟢 EASY (Basics of ArrayList)
+
+1. Store 5 student names in an `ArrayList` and print them.
+2. Add numbers 1–10 into an `ArrayList` and print only even numbers.
+3. Remove a specific fruit ("Apple") from a list of fruits.
+4. Find the size of an `ArrayList` after adding and removing elements.
+5. Check if a list contains a specific number.
+6. Replace the 3rd element in a list with a new value.
+7. Print all elements using a `for` loop.
+8. Print all elements using a `for-each` loop.
+9. Create an empty list and check if it’s empty.
+10. Combine two `ArrayList<String>` into one.
+
+---
+
+# 🟡 MEDIUM (Logic + Manipulation)
+
+11. Remove all duplicate integers from an `ArrayList`.
+12. Reverse an `ArrayList` without using built-in methods.
+13. Find the largest and smallest numbers in a list.
+14. Count how many times a specific element appears.
+15. Sort an `ArrayList` in ascending order (manually).
+16. Merge two sorted lists into one sorted list.
+17. Remove all odd numbers from a list.
+18. Shift all elements one step to the right.
+19. Find the second largest number in a list.
+20. Convert an array into an `ArrayList` and vice versa.
+
+---
+
+# 🟠 HARD (Multi-step Problems)
+
+21. Given a list of students' scores, categorize them (Pass/Fail).
+22. Rotate an `ArrayList` k times to the left.
+23. Find all pairs of numbers whose sum equals a target.
+24. Remove elements that appear more than once.
+25. Find the longest increasing subsequence (basic version).
+26. Split a list into two lists (even & odd indices).
+27. Implement your own `contains()` method.
+28. Compare two lists and find common elements.
+29. Find the first non-repeating element.
+30. Shuffle elements randomly without using `Collections.shuffle()`.
+
+---
+
+# 🔴 EXPERT (Algorithmic Thinking)
+
+31. Implement a dynamic leaderboard using `ArrayList`.
+32. Simulate a queue using only `ArrayList`.
+33. Simulate a stack using only `ArrayList`.
+34. Find all subarrays with a given sum.
+35. Detect if a list contains a cycle-like repetition pattern.
+36. Group elements based on frequency.
+37. Implement insertion sort using `ArrayList`.
+38. Find the median of an unsorted list.
+39. Merge overlapping intervals stored in an `ArrayList`.
+40. Find top K frequent elements.
+
+---
+
+# 🟣 ADVANCED (Real-world Scenarios)
+
+41. Build a student management system (add, remove, search students).
+42. Create a shopping cart system using `ArrayList`.
+43. Implement a contact list with search by name/number.
+44. Track expenses and calculate total spending.
+45. Simulate a playlist manager (add, remove, skip songs).
+46. Implement undo/redo functionality using `ArrayList`.
+47. Build a voting system and count results.
+48. Manage inventory stock (add/remove/update items).
+49. Implement pagination (display items page by page).
+50. Create a simple recommendation system (based on common items).
+
+---
+
+# ⚫ GRANDMASTER (Complex Logic + Optimization)
+
+51. Implement LRU Cache using `ArrayList` (no HashMap allowed).
+52. Find the longest consecutive sequence in a list.
+53. Simulate memory allocation using an `ArrayList`.
+54. Detect and remove sublists that repeat.
+55. Implement a mini search engine ranking system.
+56. Find all triplets that sum to zero.
+57. Optimize duplicate removal for large datasets.
+58. Simulate a task scheduler with priorities.
+59. Implement a diff tool (compare two lists and show changes).
+60. Build a mini social feed (posts, likes, sorting).
+
+---
+
+# 🧠 How to Use These
+
+* Start EASY → MASTER gradually
+* Try coding without Google first
+* Then optimize your solution
+* Compare time complexity
