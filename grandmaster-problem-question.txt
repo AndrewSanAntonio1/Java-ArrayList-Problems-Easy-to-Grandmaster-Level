@@ -1,0 +1,11 @@
+⚫ GRANDMASTER (Complex Logic + Optimization)
+Implement LRU Cache using ArrayList (no HashMap allowed).
+Find the longest consecutive sequence in a list.
+Simulate memory allocation using an ArrayList.
+Detect and remove sublists that repeat.
+Implement a mini search engine ranking system.
+Find all triplets that sum to zero.
+Optimize duplicate removal for large datasets.
+Simulate a task scheduler with priorities.
+Implement a diff tool (compare two lists and show changes).
+Build a mini social feed (posts, likes, sorting).
