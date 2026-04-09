@@ -1,0 +1,11 @@
+🟣 ADVANCED (Real-world Scenarios)
+Build a student management system (add, remove, search students).
+Create a shopping cart system using ArrayList.
+Implement a contact list with search by name/number.
+Track expenses and calculate total spending.
+Simulate a playlist manager (add, remove, skip songs).
+Implement undo/redo functionality using ArrayList.
+Build a voting system and count results.
+Manage inventory stock (add/remove/update items).
+Implement pagination (display items page by page).
+Create a simple recommendation system (based on common items).
