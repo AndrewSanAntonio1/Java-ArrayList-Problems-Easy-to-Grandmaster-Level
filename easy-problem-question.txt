@@ -1,0 +1,11 @@
+🟢 EASY (Basics of ArrayList)
+Store 5 student names in an ArrayList and print them.
+Add numbers 1–10 into an ArrayList and print only even numbers.
+Remove a specific fruit ("Apple") from a list of fruits.
+Find the size of an ArrayList after adding and removing elements.
+Check if a list contains a specific number.
+Replace the 3rd element in a list with a new value.
+Print all elements using a for loop.
+Print all elements using a for-each loop.
+Create an empty list and check if it’s empty.
+Combine two ArrayList<String> into one.
