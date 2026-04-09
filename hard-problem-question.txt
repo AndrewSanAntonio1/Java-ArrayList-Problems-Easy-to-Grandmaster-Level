@@ -1,0 +1,11 @@
+🟠 HARD (Multi-step Problems)
+Given a list of students' scores, categorize them (Pass/Fail).
+Rotate an ArrayList k times to the left.
+Find all pairs of numbers whose sum equals a target.
+Remove elements that appear more than once.
+Find the longest increasing subsequence (basic version).
+Split a list into two lists (even & odd indices).
+Implement your own contains() method.
+Compare two lists and find common elements.
+Find the first non-repeating element.
+Shuffle elements randomly without using Collections.shuffle().
