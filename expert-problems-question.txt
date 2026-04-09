@@ -1,0 +1,11 @@
+🔴 EXPERT (Algorithmic Thinking)
+Implement a dynamic leaderboard using ArrayList.
+Simulate a queue using only ArrayList.
+Simulate a stack using only ArrayList.
+Find all subarrays with a given sum.
+Detect if a list contains a cycle-like repetition pattern.
+Group elements based on frequency.
+Implement insertion sort using ArrayList.
+Find the median of an unsorted list.
+Merge overlapping intervals stored in an ArrayList.
+Find top K frequent elements.
